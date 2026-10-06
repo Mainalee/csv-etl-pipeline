@@ -50,3 +50,8 @@ Run at 2026-10-06 14:32:10
 Line 6: missing customer_segment
 Line 10: missing customer_segment
 ```
+   ## Run the Tests
+```bash
+   pip install pytest
+   python -m pytest
+```
