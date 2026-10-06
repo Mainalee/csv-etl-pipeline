@@ -1,0 +1,4 @@
+__pycache__/
+.env
+data/clean_customers.csv
+data/errors.log

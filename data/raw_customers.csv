@@ -1,0 +1,10 @@
+customer_id,customer_segment,region,age
+CUST_100,SMB,APAC,49
+CUST_101,Consumer,North America,46
+CUST_102,Consumer,LATAM,60
+CUST_103,SMB,LATAM,54
+CUST_104,,EMEA,22
+CUST_105,Enterprise,North America,48
+CUST_116,Enterprise,LATAM,34
+CUST_107,Consumer,APAC,62
+CUST_102,,APAC,24
